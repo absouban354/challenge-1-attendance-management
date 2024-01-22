@@ -1,0 +1,7 @@
+node_modules
+vendor
+/.vscode
+.env
+/public/build
+/public/hot
+/public/storage
